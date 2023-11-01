@@ -23,3 +23,6 @@ A React App that has two views, i.e. 'About Me' and 'My Town'
         - mild.png if the temperature is higher than 10°C  but lower than 20°C
         - sunny.png if the temperature is higher than 20°C
     - There is a button "Change to °F" that, if clicked, will display the temperature in Fahrenheit and will display "Change to °C" and when clicked again, it will display the temperature back in Celsius.
+
+## Important 
+To run the project, run the "npm install" command in the terminal before running the "npm start" command
